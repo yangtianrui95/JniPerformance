@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JniPerformance</string>
+    <string name="use_jni_method">do it</string>
+    <string name="use_java_method">Use java method</string>
+    <string name="desc">使用浮点数运算来模拟耗时计算,Java和Jni使用的相同的算法, 循环次数 :
+    </string>
+</resources>
