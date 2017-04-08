@@ -1,6 +1,6 @@
 # JniPerformance
 
->Jni performance test
+>Compare jni and java performance on the Android platform.
 
 Using dense floating-point calculations to test the performance differences between Jni and pure java,
 it is found that the computational performance is similar.
