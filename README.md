@@ -35,4 +35,7 @@ JNIEXPORT jdouble JNICALL Java_ytr_jniperformance_JniWrapper_calculationTask
 
 ```
 
+**Screenshot:**
+
+![img](https://github.com/yangtianrui95/JniPerformance/blob/master/jni_pref.png)
 -----
