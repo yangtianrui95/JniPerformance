@@ -7,7 +7,7 @@ it is found that the computational performance is similar.
 
 使用密集的浮点数计算来测试Jni和原生java之间的性能差别,发现计算性能两者类似
 
-**JniMethod**
+**JniMethod:**
 ```
 JNIEXPORT jdouble JNICALL Java_ytr_jniperformance_JniWrapper_calculationTask
         (JNIEnv *env, jclass clazz, jint loop_count) {
@@ -21,7 +21,7 @@ JNIEXPORT jdouble JNICALL Java_ytr_jniperformance_JniWrapper_calculationTask
 }
 ```
 
-**Java Method**
+**Java Method:**
 ```
  private static double calculationTask(int loop_count) {
         int i;
